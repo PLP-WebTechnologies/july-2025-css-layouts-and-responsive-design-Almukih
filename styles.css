@@ -1,0 +1,97 @@
+@media screen and (min-width: 768px) {
+    body {
+        background-color: lightgreen;
+        font-size: 18px;
+    }
+}
+
+section {
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: aquamarine;
+    font-size: 7em;
+    margin-bottom: 20px;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 300px 300px 300px;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+.box {
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 20px;
+    align-content: center;
+}
+
+#box1 {
+    background-color: antiquewhite;
+}
+
+#box2 {
+    background-color: rgb(197, 119, 16);
+}
+
+#box3 {
+    background-color: rgb(47, 59, 129);
+}
+
+#box4 {
+    background-color: rgb(158, 24, 102);
+}
+
+#box5 {
+    background-color: rgb(16, 201, 31);
+}
+
+#box6 {
+    background-color: rgb(192, 18, 27);
+}
+
+#box7 {
+    background-color: rgb(192, 18, 27);
+}
+
+#box8 {
+    background-color: rgb(192, 18, 27);
+}
+
+#box9 {
+    background-color: rgb(192, 18, 27);
+}
+
+#box10 {
+    background-color: rgb(192, 18, 27);
+}
+
+#box11 {
+    background-color: rgb(192, 18, 27);
+}
+
+#box12 {
+    background-color: rgb(192, 18, 27);
+}
+
+#box13 {
+    background-color: rgb(138, 60, 64);
+}
+
+#box14 {
+    background-color: rgb(18, 166, 192);
+}
+
+#box15 {
+    background-color: rgb(224, 157, 160);
+}
